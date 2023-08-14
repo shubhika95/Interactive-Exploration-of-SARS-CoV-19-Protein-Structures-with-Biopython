@@ -1,6 +1,6 @@
 # Interactive Exploration of SARS-CoV-19 Protein Structures with Biopython
 
-Welcome to my project repository focused on the interactive exploration of SARS-CoV-19 (Coronavirus) protein structures using Biopython. In this project, I've embarked on a captivating journey to create dynamic three-dimensional (3D) representations of SARS-CoV-19 protein structures. These interactive visualizations not only enhance our understanding of these critical biomolecules but also provide a platform for gaining deeper insights into their properties.
+Welcome to my project repository (Coursera-Guided-Project-Program) focused on the interactive exploration of SARS-CoV-19 (Coronavirus) protein structures using Biopython. In this project, I've embarked on a captivating journey to create dynamic three-dimensional (3D) representations of SARS-CoV-19 protein structures. These interactive visualizations not only enhance our understanding of these critical biomolecules but also provide a platform for gaining deeper insights into their properties.
 
 ### **Project Highlights:**
 
